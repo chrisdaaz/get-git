@@ -54,11 +54,11 @@ With a central repo hosted on GitHub, you can easily collaborate with anyone in 
 ## Plain Text Workflow
 
 Git works best tracking [plain text](https://en.wikipedia.org/wiki/Plain_text) files.
-All code (`.c`, `.py`, `.r`, `.html`, `.md`, etc) is plain text.
-Most images, video, or [proprietary](https://www.gnu.org/proprietary/proprietary.en.html) document formats (such as Word's `.docx`) are not.
+All code (`.c`, `.py`, `.r`, `.html`, `.md`, `.csv` etc) is plain text.
+Most images, video, or [proprietary](https://www.gnu.org/proprietary/proprietary.en.html) document formats (such as Word's `.docx` or Excel's `.xlsx`) are not.
 Git can tell exactly what changes in a plain text file, but can not understand the insides of a [binary file](https://en.wikipedia.org/wiki/Binary_file).
 It will know when a binary file is changed, but it can not give you the exact differences.
-Thus, Git is not optimal for managing Word docs, PDFs, or other binary files.
+Thus, Git is not optimal for managing Word docs, PDFs, excel spreadsheets, or other binary files.
 
 Instead of using proprietary formats, consider a plain text writing workflow using [Markdown](https://evanwill.github.io/_drafts/notes/markdown-minute.html) or [LaTeX](https://www.latex-project.org/about/)--it simplifies your life, makes writing easier and more [sustainable](https://programminghistorian.org/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown)!
 

@@ -27,10 +27,8 @@ We will introduce Git on the command line and the Github web interface.
 {% endfor %}
 </div>
 
-> hosted by [University of Idaho Library](http://www.lib.uidaho.edu/) {{ site.pub_year }}
+> built using [Jekyll](https://jekyllrb.com/){:target="_blank"}
 >
-> built using [Jekyll](https://jekyllrb.com/){:target="_blank"} and [GitHub Pages](https://pages.github.com/){:target="_blank"}
->
-> images and content: cc-by-sa <a href="https://github.com/{{ site.github_username }}">{{ site.author }}</a> {{ site.pub_year}}. (get [source code]({{ site.repo }}))
+> images and content: cc-by-sa {{ site.author }} {{ site.pub_year}}. (get [source code]({{ site.repo }}))
 >
 > <a href="http://creativecommons.org/licenses/by-sa/4.0/" rel="license" target="_blank"><img style="border-width: 0;" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" alt="Creative Commons License" /></a>

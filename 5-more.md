@@ -1,6 +1,6 @@
 ---
 title: 5-More
-nav: true
+nav: false
 ---
 
 # More Stuff

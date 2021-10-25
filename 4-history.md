@@ -1,6 +1,6 @@
 ---
 title: 4-History
-nav: true
+nav: false
 ---
 
 # History

@@ -13,23 +13,23 @@ description: >
 keywords: "git, github, workshop, version control"
 
 # author settings for cc-by
-author: Evan Will
-pub_year: 2018
+author: Evan Will, Chris Diaz
+pub_year: 2018, 2021
 github_username: evanwill
 
 # add the full url for the github repository
-repo: "https://github.com/evanwill/get-git"
+repo: "https://github.com/chrisdaaz/get-git"
 
 # site urls
 # add the url for the domain,
 # on gh-pages: https://username.github.io 
-url: https://evanwill.github.io
+url: ''
 # add subsection of the domain,
 # on gh-pages this is the name of the repository
-baseurl: /get-git
+baseurl: ''
 
 # add google analytics if desired (and use environment variable on build command)
-google_analytics: UA-74844011-1
+#google_analytics: UA-74844011-1
 
 # defaults (to simplify front matter)
 defaults:

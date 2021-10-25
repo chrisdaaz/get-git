@@ -1,6 +1,6 @@
 ---
 title: 3-Workflow
-nav: true
+nav: false
 ---
 
 # Basic Git Workflow

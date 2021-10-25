@@ -1,6 +1,6 @@
 ---
 title: 6-Resources
-nav: true
+nav: false
 ---
 
 # Learning resources
